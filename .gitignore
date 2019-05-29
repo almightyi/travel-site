@@ -11,13 +11,14 @@
 *.sass-cache
 node_modules/
 .tmp/
-
+.tmp1/
 # OS or Editor folders
 .DS_Store
 Thumbs.db
 .cache
 .project
 .settings
+.setting1
 .tmproj
 *.esproj
 nbproject
